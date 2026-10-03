@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CueMaster</string>
+    <string name="app_tagline">Music Practice Player for Dancers</string>
+    <string name="add_music">Add Music</string>
+    <string name="load_audio_file">Load MP3 or WAV</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="rewind_5s">-5s</string>
+    <string name="forward_5s">+5s</string>
+    <string name="prev_cue">Prev Cue</string>
+    <string name="next_cue">Next Cue</string>
+    <string name="add_cue">Add Cue</string>
+    <string name="delete_cue">Delete Cue</string>
+    <string name="zoom">Zoom</string>
+    <string name="speed">Speed</string>
+    <string name="loop_section">Loop Section</string>
+    <string name="no_track_loaded">No Track Selected</string>
+</resources>

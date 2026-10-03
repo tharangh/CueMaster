@@ -1,0 +1,6 @@
+{
+  "name": "CueMaster",
+  "description": "Dance practice player with DAW waveform, zoom, and cue markers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
